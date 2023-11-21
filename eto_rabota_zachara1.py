@@ -74,9 +74,9 @@ def timer(n):
         n-=1
         
 countdown=timer(3)        
-        
 print(countdown)        
         
 for i in countdown:
     print(i)
+
 
